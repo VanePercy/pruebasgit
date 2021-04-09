@@ -15,6 +15,11 @@ body {
   
 }
 
+#cabecera {
+
+  background-color: aquamarine;
+}
+
 
 #container h1  {
   font-size: 20px;
