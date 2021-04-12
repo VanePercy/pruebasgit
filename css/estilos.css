@@ -21,6 +21,12 @@ body {
   background-color: aquamarine;
 }
 
+#footer{
+  
+  font-size: 20px;
+  background-color:#ddd;
+  color: blue;
+}
 
 #container h1  {
   font-size: 20px;
