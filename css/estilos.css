@@ -6,6 +6,7 @@ body {
   font-size: 16px;
   padding: 0;
   margin: 0;
+  background-color: bisque;
 }
 #container {
   width: 70%;
@@ -19,6 +20,10 @@ body {
 #cabecera {
 
   background-color: aquamarine;
+}
+
+#logo{
+  width: 50px;
 }
 
 
