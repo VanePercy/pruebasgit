@@ -2,7 +2,7 @@
 
     Hola mundo de Git y GitHub
 
-Repo de pruebas para curso de Git y GitHub de Platzi :tw-1f49a:, este es un blog :tw-1f4d2: donde se hacen pruebas sobre cómo enviar y traer  cambios de repositorios remotos, cómo hacer Fork :tw-1f374: de algún proyecto para colaborar, el manejo de ramas :tw-1f33f:,  entre muchos otros temas importantes.
+Repo de pruebas para curso de Git y GitHub de Platzi 💚💚, este es un blog 📒 donde se hacen pruebas sobre cómo enviar y traer  cambios de repositorios remotos, cómo hacer Fork 🍴 de algún proyecto para colaborar, el manejo de ramas 🌿,  entre muchos otros temas importantes.
 
 Este curso me ha ayudado a aprender sobre:
 
@@ -13,4 +13,4 @@ Este curso me ha ayudado a aprender sobre:
 - Múltiples entornos de trabajo
 - Comandos Git para casos de emergencia
 
-A seguir aprendiendo :tw-203c:
+A seguir aprendiendo ‼💯
