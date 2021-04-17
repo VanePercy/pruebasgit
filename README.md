@@ -16,3 +16,4 @@ Repo de pruebas para curso de Git y GitHub de Platzi 💚💚, este es un blog �
 A seguir aprendiendo ‼💯
 
 - Creado por una estudiante de Platzi incluye ejemplos
+- Disponible para todos los que deseen seguir aprendiendo
